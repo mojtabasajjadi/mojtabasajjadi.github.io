@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seyed Mojtaba Sajjadi - Academic Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Seyed Mojtaba Sajjadi</h1>
+        <p><a href="mailto:mojtabasadjadi@gmail.com">mojtabasadjadi@gmail.com</a> | (+98) 9373748395</p>
+        <p><a href="https://www.linkedin.com/in/smsajjadi/">LinkedIn</a> | <a href="https://github.com/mojtabasajjadi">GitHub</a> | <a href="https://scholar.google.com/citations?user=5sf3Oz0AAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#research-interests">Research Interests</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+        </ul>
+    </nav>
+
+    <section id="research-interests">
+        <h2>Research Interests</h2>
+        <p>Text Mining, Natural Language Processing, Social Network Analysis, LLMs, Data Science</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Master of Science in Computer Engineering (Artificial Intelligence)</strong><br>
+                Shahrood University of Technology, Shahrood, Iran (Sep. 2018 – Sep. 2021)<br>
+                GPA: 18.30/20, Ranked 2nd among all Computer Engineering students.
+            </li>
+            <li><strong>Bachelor of Science in Computer Engineering</strong><br>
+                Babol Noshirvani University of Technology, Babol, Iran (Jan. 2013 – Sep. 2017)<br>
+                GPA: 16.65/20
+            </li>
+        </ul>
+    </section>
+
+    <section id="publications">
+        <h2>Publications</h2>
+        <ul>
+            <li><strong>A Semi-supervised Framework for Concept-based Hierarchical Document Clustering</strong><br>
+                World Wide Web (Q1, IF: 3.7), 2023. DOI: <a href="https://doi.org/10.1007/s11280-023-01209-4">10.1007/s11280-023-01209-4</a>
+            </li>
+            <!-- Additional publications can be added here -->
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>AI Engineer</strong> at AI Exchange Group, Wallex, Tehran, Iran (May 2024 – Present)</li>
+            <li><strong>Research and Development Engineer</strong> at Artificial Intelligence Group, ICT Research Institute, Tehran, Iran (Jan. 2022 – Aug. 2023)</li>
+            <!-- Add more experiences as necessary -->
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming: Python, MATLAB, Java, C/C++</li>
+            <li>ML Packages: PyTorch, Keras, HuggingFace Transformers, etc.</li>
+            <li>Web Design: PHP, SQL, JavaScript, CSS, HTML</li>
+            <!-- Add more skills if needed -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Seyed Mojtaba Sajjadi</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
